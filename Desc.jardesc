@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="WINDOWS-1252" standalone="no"?>
+<jardesc>
+    <jar path="VisualAegean/VisualAegean.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/VisualAegean/Desc.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" mainClassHandleIdentifier="=VisualAegean/src&lt;theRealShit{ViewController.java[ViewController" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <folder path="/VisualAegean/stuff"/>
+        <file path="/VisualAegean/.project"/>
+        <javaElement handleIdentifier="=VisualAegean/src"/>
+        <file path="/VisualAegean/.classpath"/>
+    </selectedElements>
+</jardesc>
